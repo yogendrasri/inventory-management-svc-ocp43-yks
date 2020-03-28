@@ -2,6 +2,7 @@
  * This is the project build file. It can be modified as necessary as the project changes
  * (e.g. additional dependencies, etc). However, the build scripts in the /gradle folder SHOULD NOT be modified.
  */
+ 
 buildscript {
     ext {
         springBootVersion = '2.1.2.RELEASE'
